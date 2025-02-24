@@ -1,5 +1,5 @@
 {
-  "name": "vite-r3f-ts-template",
+  "name": "football-game",
   "private": true,
   "version": "0.0.1",
   "type": "module",
@@ -30,5 +30,6 @@
     "semi": false,
     "printWidth": 90,
     "jsxSingleQuote": true
-  }
+  },
+  "packageManager": "yarn@4.6.0"
 }

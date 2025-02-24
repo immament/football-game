@@ -1747,6 +1747,26 @@ __metadata:
   languageName: node
   linkType: hard
 
+"football-game@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "football-game@workspace:."
+  dependencies:
+    "@react-three/drei": "npm:^9.122.0"
+    "@react-three/fiber": "npm:^8.18.0"
+    "@types/react": "npm:^18.3.18"
+    "@types/react-dom": "npm:^18.3.5"
+    "@types/three": "npm:^0.172.0"
+    "@vitejs/plugin-react": "npm:^4.3.4"
+    leva: "npm:^0.10.0"
+    r3f-perf: "npm:^7.2.3"
+    react: "npm:^18.3.1"
+    react-dom: "npm:^18.3.1"
+    three: "npm:^0.173.0"
+    typescript: "npm:^5.7.3"
+    vite: "npm:^5.4.14"
+  languageName: unknown
+  linkType: soft
+
 "for-in@npm:^1.0.2":
   version: 1.0.2
   resolution: "for-in@npm:1.0.2"
@@ -3030,26 +3050,6 @@ __metadata:
   checksum: 10c0/064f735dc20c3b6e68a8bd7c5b4e12b260379468283a79731ffa73ba06c50bdfce91e1703121a25a03424736d70e97e72bfaa102ee859a24fd6662a4c2915578
   languageName: node
   linkType: hard
-
-"vite-r3f-ts-template@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "vite-r3f-ts-template@workspace:."
-  dependencies:
-    "@react-three/drei": "npm:^9.122.0"
-    "@react-three/fiber": "npm:^8.18.0"
-    "@types/react": "npm:^18.3.18"
-    "@types/react-dom": "npm:^18.3.5"
-    "@types/three": "npm:^0.172.0"
-    "@vitejs/plugin-react": "npm:^4.3.4"
-    leva: "npm:^0.10.0"
-    r3f-perf: "npm:^7.2.3"
-    react: "npm:^18.3.1"
-    react-dom: "npm:^18.3.1"
-    three: "npm:^0.173.0"
-    typescript: "npm:^5.7.3"
-    vite: "npm:^5.4.14"
-  languageName: unknown
-  linkType: soft
 
 "vite@npm:^5.4.14":
   version: 5.4.14
